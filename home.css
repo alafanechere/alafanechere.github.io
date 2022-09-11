@@ -111,8 +111,15 @@
   background-color: rgb(105, 105, 105);
 }
 @media(max-width: 479px) {
+  .home-image {
+    height: 213px;
+  }
   .home-text {
     font-family: Frank Ruhl Libre;
+  }
+  .home-container4 {
+    padding-left: var(--dl-space-space-unit);
+    padding-right: var(--dl-space-space-unit);
   }
   .home-text1 {
     font-family: Frank Ruhl Libre;
