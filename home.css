@@ -88,11 +88,12 @@
   align-items: center;
   flex-direction: column;
 }
-.home-button {
+.home-link2 {
   color: #ffffff;
   font-family: Frank Ruhl Libre;
   border-color: #ffffff;
   border-width: 0px;
+  text-decoration: none;
   background-color: #696969;
 }
 .home-container8 {
@@ -102,7 +103,7 @@
   align-items: center;
   flex-direction: column;
 }
-.home-link2 {
+.home-link3 {
   color: rgb(255, 255, 255);
   font-family: Frank Ruhl Libre;
   border-color: #ffffff;
